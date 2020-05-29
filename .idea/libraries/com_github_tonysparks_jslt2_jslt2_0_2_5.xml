@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.tonysparks.jslt2:jslt2:0.2.5" type="repository">
+    <properties maven-id="com.github.tonysparks.jslt2:jslt2:0.2.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/tonysparks/jslt2/jslt2/0.2.5/jslt2-0.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
